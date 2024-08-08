@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\bin\Debug\net8.0\Chuong8.exe
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\bin\Debug\net8.0\Chuong8.deps.json
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\bin\Debug\net8.0\Chuong8.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\bin\Debug\net8.0\Chuong8.dll
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\bin\Debug\net8.0\Chuong8.pdb
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\obj\Debug\net8.0\Chuong8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\obj\Debug\net8.0\Chuong8.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\obj\Debug\net8.0\Chuong8.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\obj\Debug\net8.0\Chuong8.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\obj\Debug\net8.0\Chuong8.dll
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\obj\Debug\net8.0\refint\Chuong8.dll
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\obj\Debug\net8.0\Chuong8.pdb
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\obj\Debug\net8.0\Chuong8.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Chuong8\Chuong8\obj\Debug\net8.0\ref\Chuong8.dll
